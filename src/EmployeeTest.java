@@ -32,8 +32,6 @@ public class EmployeeTest {
 		//print out each object
 		System.out.println(emp1);
 		System.out.println(emp2);
-		
-		//test
-		System.out.println(emp1);
+	
 	}//close main()
 }//close class EmployeeTest
