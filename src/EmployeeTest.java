@@ -34,6 +34,6 @@ public class EmployeeTest {
 		System.out.println(emp2);
 		
 		//test
-		System.out.println(test);
+		System.out.println(emp1);
 	}//close main()
 }//close class EmployeeTest
