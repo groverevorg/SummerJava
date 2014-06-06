@@ -4,10 +4,7 @@
 // a MyStack object which uses Nodes to create a linked list
 
 public class UserStack implements MyStack {
-<<<<<<< HEAD
-=======
-	//test
->>>>>>> 35fff79e976e010c6edc832d99eb07073decbc9b
+
 	Node head; // reference to the top of the stack
 	
 	public UserStack(){

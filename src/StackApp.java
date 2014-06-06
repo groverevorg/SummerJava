@@ -5,7 +5,6 @@
 import java.util.Scanner;
 
 public class StackApp {
-<<<<<<< HEAD
 	
 	public static void main(String[] args){
 		
@@ -14,6 +13,7 @@ public class StackApp {
 		
 		// open the menu
 		menu();
+		
 	}// exit method main
 
 	static void menu(){
@@ -48,8 +48,4 @@ public class StackApp {
 		input.close();
 	}
 }// exit class StackApp
-=======
-//Does this shit actually work??
-	System.out.println("hmmm");
-}
->>>>>>> 35fff79e976e010c6edc832d99eb07073decbc9b
+
